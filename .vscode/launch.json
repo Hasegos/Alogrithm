@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/개발 공부 모음/알고리즘 공부 모음/백준/Alogrithm",
-      "program": "d:/개발 공부 모음/알고리즘 공부 모음/백준/Alogrithm/build/Debug/outDebug",
+      "cwd": "d:/개발 공부 모음/알고리즘 공부 모음/백준/Alogrithm/Baekjun/stage 1",
+      "program": "d:/개발 공부 모음/알고리즘 공부 모음/백준/Alogrithm/Baekjun/stage 1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
