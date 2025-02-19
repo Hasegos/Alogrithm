@@ -23,7 +23,6 @@ int main(){
         printf("<");
     }
     else{
-
         printf("==");
     }    
 }
